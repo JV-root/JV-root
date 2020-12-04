@@ -1,7 +1,7 @@
 # João Victor de Lima
 
 ## Olá pessoal 👋
-Sou apaixonado em computação dês de bem pequeno, e sempre tive o sonho de me formar na área de Desenvolvimento de Software e em Música. :notes::musical_note:&nbsp;:computer:
+Sou apaixonado em computação desde bem pequeno, e sempre tive o sonho de me formar na área de Desenvolvimento de Software e em Música. :notes::musical_note:&nbsp;:computer:
 Quero me tornar um Engenheiro de Software.
 <br/><br/><br/>
 ![alt Mr Robot](https://thumbs.gfycat.com/ActualGiftedHapuku-size_restricted.gif)
