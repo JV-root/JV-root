@@ -8,10 +8,10 @@ Quero me tornar um Engenheiro de Software.
 
 
 Atualmente estou terminando o curso técnico de ADS na Etec e virando um entusiasta de segurança da informação :)
-<br/> Estou buscando colaborar com projetos em C# , React e NodeJS
+<br/> Estou buscando colaborar com projetos em C# e NodeJS.
 <br/> Posso te ajudar com POO e com Funções
-<br/> :computer: &nbsp; Minha stack: C# , React , ReactNative e NodeJS
-<br/> 💬  &nbsp; Sobre mim: Curto Música , games como League of Legends, Valorant e CSGO.
+<br/> :computer: &nbsp; Minha stack: C#, html, css, e NodeJS/JS.
+<br/> 💬  &nbsp; Sobre mim: Curto Música , games como League of Legends, Final fantasy e CSGO.
 <br/>Minhas três séries favoritas são Breaking Bad , How i meet your mother e South Park.
 <br/>Meu livro favorito é 1984.
 
