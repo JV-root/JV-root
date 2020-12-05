@@ -7,7 +7,7 @@ Quero me tornar um Engenheiro de Software.
 ![alt Mr Robot](https://thumbs.gfycat.com/ActualGiftedHapuku-size_restricted.gif)
 
 
-Atualmente estou terminando o curso técnico de ADS na Etec.
+Atualmente estou terminando o curso técnico de ADS na Etec e virando um entusiasta de segurança da informação :)
 <br/> Estou buscando colaborar com projetos em C# , React e NodeJS
 <br/> Posso te ajudar com POO e com Funções
 <br/> :computer: &nbsp; Minha stack: C# , React , ReactNative e NodeJS
