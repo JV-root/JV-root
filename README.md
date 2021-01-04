@@ -31,7 +31,7 @@ Quero me tornar um Engenheiro de Software.
 [![UBUNTU Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 ****
 ## 💬 Sobre mim: 
- 
+<br>
 - Bandas favoritas: The Beatles, System of a Down e Megadeth :metal:
 </br>
 - Games: League of Legends, Final fantasy e CSGO. :video_game:
