@@ -42,7 +42,6 @@ Quero me tornar um Engenheiro de Software.
 
 ![alt 1984](https://media1.tenor.com/images/62a7b2002c8daa031b06e100a6952782/tenor.gif?itemid=8163429)
 
-[<img src="https://now-playing-shadow3985.vercel.app/api/spotify-playing" alt="shadow3985 Spotify Playing" width="350" />](https://open.spotify.com/user/shadow3985)
 
 ****
 ## :email:  Entre em contato comigo:
