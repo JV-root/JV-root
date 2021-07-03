@@ -11,9 +11,8 @@ Quero me tornar um Engenheiro de Software.
 
 ## - Atualmente estou...
 
-- Adquirindo skills Back-End </br>
+- Estudando conceitos sobre Performance Web Back e Front End </br>
 - Estudando MUITO inglês
-- Básico sobre Terminal Linux/Shell
 - Me tornando um entusiasta de segurança da informação :)
 ****
 
