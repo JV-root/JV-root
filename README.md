@@ -3,7 +3,7 @@
 # João Victor de Lima
 
 ## Olá pessoas 👋
-Eu sou o JV, tenho 19 anos e atualmente moro em São Paulo, Brasil.
+Eu sou o JV, tenho 20 anos e atualmente moro em São Paulo, Brasil.
 
 Sempre fui a criança que passava horas e horas em frente ao computador, o que me despertou a paixão por tudo aquilo que envolve computação. Tenho o sonho de me tornar uma referência técnica na área de computação e um professor de filosofia! (Áreas um tanto quanto distintas, não?) :notebook_with_decorative_cover: :computer:
 <br/><br/>
