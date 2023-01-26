@@ -3,20 +3,20 @@
 # João Victor de Lima
 
 ## Olá pessoas 👋
-Eu sou o JV, tenho 20 anos e atualmente moro em São Paulo, Brasil.
+Eu sou o JV, tenho 20 anos e atualmente moro em São Paulo, Brasil. 
 
-Sempre fui a criança que passava horas e horas em frente ao computador, o que me despertou a paixão por tudo aquilo que envolve computação. Tenho o sonho de me tornar uma referência técnica na área de computação e um professor de filosofia! (Áreas um tanto quanto distintas, não?) :notebook_with_decorative_cover: :computer:
+Desde cedo, eu sempre fui fascinado por tecnologia e computação, o que me levou a passar horas e horas em frente ao computador. Isso despertou minha paixão por tudo relacionado a computação e meu desejo de me tornar uma referência técnica na área. Além disso, eu também tenho interesse em ensinar e compartilhar meus conhecimentos, especialmente na área de filosofia, do qual desejo me tornar um professor.
 <br/><br/>
 ![Designing The Modern Academy. The painting above is a depiction of… | by  Corey Topf | Age of Awareness | Medium](https://miro.medium.com/max/1200/1*Zey30peZtQulTcxbAnj1-Q.jpeg)
 
 
 
 
-## - Atualmente estou...
+## Atualmente, estou:
 
-📈 Atuando como analista de performance JR na @Inmetrics  
-👩‍💻 Cursando Ciência da Computação na Faculdade Impacta  
-🪑🎲 Adquirindo skills para me tornar um cientista de dados  
+- Atuando como Analista de Performance JR na @Inmetrics, onde tenho a oportunidade de aplicar meus conhecimentos e habilidades para melhorar o desempenho de sistemas e aplicações.
+- Cursando Ciência da Computação na Faculdade Impacta, ampliando meus conhecimentos teóricos e práticos na área de computação.
+- Adquirindo habilidades em ferramentas e técnicas para me tornar um Cientista de Dados, preparando-me para atuar em projetos de análise e interpretação de dados.
 **
 
 ## <br/> :computer: &nbsp; Minha stack: 
