@@ -17,13 +17,23 @@ Desde cedo, eu sempre fui fascinado por tecnologia e computação, o que me levo
 - Atuando como Analista de Performance JR na @Inmetrics, onde tenho a oportunidade de aplicar meus conhecimentos e habilidades para melhorar o desempenho de sistemas e aplicações.
 - Cursando Ciência da Computação na Faculdade Impacta, ampliando meus conhecimentos teóricos e práticos na área de computação.
 - Adquirindo habilidades em ferramentas e técnicas para me tornar um Cientista de Dados, preparando-me para atuar em projetos de análise e interpretação de dados.
-**
 
-## <br/> :computer: &nbsp; Minha stack: 
+## <br/> :computer: &nbsp; Minha stack:
+
 - Jmeter
 - Grafana
 - Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- SQL
+- R
+- AWS
+- TensorFlow
+- Keras
 - Shell
+- Git
 
 ## :email:  Entre em contato comigo:
 
