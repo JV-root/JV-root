@@ -6,7 +6,7 @@
 
 I am JV, 20 years old, currently living in São Paulo, Brazil.
 
-Since I was young, I have always been fascinated by technology and computing, which led me to spend hours and hours in front of the computer. This sparked my passion for everything related to computing and my desire to become a technical reference in the field. Additionally, I also have an interest in teaching and sharing my knowledge, especially in the field of philosophy, in which I wish to become a teacher.
+Since I was young, I have always been fascinated by technology and computing, which led me to spend hours and hours on the computer. This sparked my passion for everything related to computing and my desire to become a technical reference in the field. Additionally, I also have an interest in teaching and sharing my knowledge, especially in the field of philosophy, in which I wish to become a teacher.
 <br/><br/>
 ![Designing The Modern Academy. The painting above is a depiction of… | by  Corey Topf | Age of Awareness | Medium](https://miro.medium.com/max/1200/1*Zey30peZtQulTcxbAnj1-Q.jpeg)
 
@@ -16,7 +16,7 @@ Since I was young, I have always been fascinated by technology and computing, wh
 ## I'm currently:
 
 - Working as a Performance Engineer at Yaman, where I have the opportunity to apply my knowledge and skills to improve system and application performance.
-- Studying Computer Science at Impacta College, expanding my theoretical and practical knowledge in the field of computing.
+- Studying Data Science at the Virtual Univesity of São Paulo.
 - Acquiring skills in tools and techniques to become a Data Scientist, preparing myself to work on projects involving data analysis and interpretation.
 
 ## <br/> :computer: &nbsp; Languages and Main Tools:
