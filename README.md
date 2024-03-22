@@ -8,7 +8,6 @@ I am JV, 21 years old, currently living in São Paulo, Brazil.
 Since I was a kid I've always been fascinated by technology and computers spending lots of time on the computer. 
 This early interest sparked my love, for everything related to computing. Motivated me to strive to become an expert, in the field.
 
----
 ![Foto de Dan Cristian Pădureț - Unsplash"](Math.jpg)
 
 ---
@@ -19,7 +18,7 @@ This early interest sparked my love, for everything related to computing. Motiva
 - Studying Data Science at the Virtual Univesity of São Paulo (UNIVESP).
 - Acquiring skills in tools and techniques to become a Data Scientist.
 
----
+
 
 ## :computer: Tech Tools
 
@@ -42,7 +41,7 @@ This early interest sparked my love, for everything related to computing. Motiva
 - PowerBI
 - SQL
 
----
+
 
 
 
