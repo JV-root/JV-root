@@ -10,7 +10,6 @@ This early interest sparked my love, for everything related to computing. Motiva
 
 ![Foto de Dan Cristian Pădureț - Unsplash"](Math.jpg)
 
----
 
 ## I'm currently
 
